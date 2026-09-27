@@ -1,0 +1,11 @@
+{
+  "name": "JARVIS Multi-Agent Command Core",
+  "description": "Futuristic multi-agent system with voice-controlled JARVIS HUD, AI chat, task pipeline orchestration, real-time performance metrics, and low-latency encrypted telemetry.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
